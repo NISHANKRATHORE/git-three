@@ -1,3 +1,6 @@
 this is file one in three folder
 
 add another new line 
+add another new line 
+add another new line 
+add another new line 
